@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Bienvenue!&fontSize=80&animation=twinkling&fontColor=fff" width="100%" />
-
-# 👋 Salut, je suis Nour Saidane!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Salut, je suis Nour Saidane!&fontSize=80&animation=twinkling&fontColor=fff" width="100%" />
 
 <img src="https://i.imgur.com/aRF4zgd.png" alt="Banner" width="45%"/>
 
