@@ -1,9 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Salut, je suis Nour Saidane!&fontSize=80&animation=twinkling&fontColor=fff" width="100%" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Bienvenue!&fontSize=80&animation=twinkling&fontColor=fff" width="100%" />
+Bonjour, je suis Nour Saidane!
 <img src="https://i.imgur.com/aRF4zgd.png" alt="Banner" width="45%"/>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Élève+Ingénieur+en+Génie+Logiciel+🎓;Développeuse+Full+Stack+Passionnée+💻;Créatrice+de+Solutions+Innovantes+🚀;Basée+à+Monastir,+Tunisie+🇹🇳)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=noursaidane2001&label=Visiteurs&color=0e75b6&style=flat" alt="visiteurs" />
