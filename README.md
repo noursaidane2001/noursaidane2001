@@ -20,9 +20,10 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:saidanenour2001@gmail.com?subject=Contact%20depuis%20votre%20portfolio&body=Bonjour%20Nour,%0D%0A%0D%0A" target="_blank">
+<a href="mailto:saidanenour2001@gmail.com?subject=Contact%20depuis%20votre%20portfolio&body=Bonjour%20Nour%2C%0D%0A%0D%0AJe%20souhaite%20vous%20contacter%20depuis%20votre%20github.%0D%0A%0D%0ACordialement%2C" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+
 
 <a href="https://github.com/noursaidane2001" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
